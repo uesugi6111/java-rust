@@ -1,0 +1,5 @@
+[workspace]
+members = ["sample-jna"]
+
+[profile.release]
+lto = true

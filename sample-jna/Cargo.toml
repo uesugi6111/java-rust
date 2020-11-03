@@ -1,0 +1,9 @@
+[package]
+name = "sample-jna"
+version = "0.1.0"
+authors = ["uesugi6111 <59960488+aburaya6111@users.noreply.github.com>"]
+edition = "2018"
+
+[lib]
+crate-type = ["cdylib"]
+
