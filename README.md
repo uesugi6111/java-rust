@@ -14,6 +14,8 @@ mvn package
 java -jar /workspaces/java-rust/target/my-app-1.0-SNAPSHOT-jar-with-dependencies.jar
 ```
 
+解説のようなもの
+https://qiita.com/takeda_/items/18e6c235c850e4c256c6
 
 使用ライブラリ
 Java Native Access (JNA)
